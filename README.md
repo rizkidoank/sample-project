@@ -3,5 +3,7 @@
 just a dummy project.
 
 ```
-docker run rizkidoank/sample-project:latest
+docker run -p 8080:8080 rizkidoank/sample-project:latest
 ```
+
+and open localhost:8080
